@@ -1,0 +1,16 @@
+.brands{
+    display: flex;
+    background-color:rgb(231, 228, 228);
+    text-align: center;
+}
+.brands h3{
+    margin: 20px;
+    pointer-events: all;
+    cursor: pointer;
+    font-style: normal;
+}
+
+.konten img{
+    width: 50%;
+    margin: 20px;
+}
